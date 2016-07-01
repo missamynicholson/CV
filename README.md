@@ -72,7 +72,7 @@ Here are some far too generous reviews I've garnered from brilliant (and somewha
 
 ### WTF is Makers Academy?<a name="makers"></a>
 
-Makers Academy is an intensive 12-week coding bootcamp.
+[Makers Academy](http://www.makersacademy.com) is an intensive 12-week coding bootcamp.
 
 - Pair programming throughout
 - Strong emphasis on best practices - TDD, OOP, SOLID, Agile, XP
