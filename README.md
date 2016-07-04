@@ -2,7 +2,7 @@ Amy Nicholson
 ---
 
 ### The Atypical Opener
-Sure, I could list a bunch of generic skills I think you're looking for, and boldly claim that, by sheer hapchance, those exact skills were clearly demonstrable in a plethora of my previous roles. Then I could heinously over-inflate my achievements and responsibilities in said roles, perhaps bandying the terms "effective communicator" and "can-do attitude" about a bit, all in the vain hope that you'd be bamboozled by the BS.
+Sure, I could list all the skills that you're looking for, and boldly claim that, by sheer hapchance, those exact skills were clearly demonstrable in a plethora of my previous roles. Then I could heinously over-inflate my achievements and responsibilities in said roles in the vain hope that you'd be bamboozled by the BS.
 
 But in the immortal words of Kimberly "Sweet Brown" Wilkins, [*"Ain't nobody got time for that"*](https://www.youtube.com/watch?v=zGxwbhkDjZM). So, instead, here are some juicy bits you might be interested in, minus the self-congratulatory over-exaggeration.
 
@@ -20,7 +20,7 @@ But in the immortal words of Kimberly "Sweet Brown" Wilkins, [*"Ain't nobody got
   - I can self-motivate
 
 
->* Used Origami to create an [FT 404 page](https://github.com/missamynicholson/ft_origami_404/blob/master/index.html)
+>* Used Origami to create an [FT 404 page](#404)
  - I can learn quickly
 
 
@@ -62,6 +62,12 @@ Here are some far too generous reviews I've garnered from brilliant (and somewha
 
 
 ### The Projects<a name="projects"></a>
+
+>[<img src="/images/ft404_icon.png" width="100">](https://github.com/missamynicholson/ft_origami_404)<a name="404"></a>
+
+>**[404](https://github.com/missamynicholson/ft_origami_404)** is a topical 404 page I am creating in order to learn about [Origami](http://origami.ft.com). It is based on the FT Labs project which aimed to create an exciting 404 page which wouldn't leave FT readers disappointed if they landed on it.
+
+<br>
 
 >[<img src="/images/phlash_icon.png" width="100">](https://github.com/missamynicholson/phlash)
 
