@@ -20,7 +20,7 @@ But in the immortal words of Kimberly "Sweet Brown" Wilkins, [*"Ain't nobody got
   - I can self-motivate
 
 
->* Used Origami to create an [FT 404 page](https://github.com/missamynicholson/ft_origami_404/blob/master/index.html)
+>* Used Origami to create an [FT 404 page](https://github.com/missamynicholson/ft_origami_404)
  - I can learn quickly
 
 
