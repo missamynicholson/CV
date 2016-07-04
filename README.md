@@ -60,10 +60,11 @@ Here are some far too generous reviews I've garnered from brilliant (and somewha
 
 <sup><sup>*</sup> For the avoidance of doubt, my parents are NOT available to hire, but all these other lovely reviewers are.</sup>
 
+<a name="projects">
+### The Projects</a>
 
-### The Projects<a name="projects"></a>
-
->[<img src="/images/ft404_icon.png" width="100">](https://github.com/missamynicholson/ft_origami_404)<a name="404"></a>
+<a name="404">
+>[<img src="/images/ft404_icon.png" width="100">](https://github.com/missamynicholson/ft_origami_404)</a>
 
 >**[404](https://github.com/missamynicholson/ft_origami_404)** is a topical 404 page I am creating in order to learn about [Origami](http://origami.ft.com). It is based on the FT Labs project which aimed to create an exciting 404 page which wouldn't leave FT readers disappointed if they landed on it.
 
@@ -79,9 +80,10 @@ Here are some far too generous reviews I've garnered from brilliant (and somewha
 >**[Memeories](https://github.com/missamynicholson/memeories)** is a web app which allows students to create and share a meme with colleagues via their Slack channel. Memeories was built in 4.5 days using Rails, Heroku, AWS, several APIs and a Slack webhook.
 
 <br>
->[<img src="/images/stealthie_icon.png" width="100">]()
+<a name="stealthie">
+>[<img src="/images/stealthie_icon.png" width="100">]()</a>
 
->**[Stealthie]()**<a name="stealthie"></a> is an iOS app which automatically captures your reaction to a photo using the front-facing camera. Prior to Makers Academy, I learnt Objective-C from YouTube videos, online tutorials and StackOverflow. My first app was Stealthie, which passed the Apple Review process first time and went live on the App Store. It was downloaded and used by people all over the world.
+>**[Stealthie]()** is an iOS app which automatically captures your reaction to a photo using the front-facing camera. Prior to Makers Academy, I learnt Objective-C from YouTube videos, online tutorials and StackOverflow. My first app was Stealthie, which passed the Apple Review process first time and went live on the App Store. It was downloaded and used by people all over the world.
 
 
 ### The Work Experience<a name="work"></a>
