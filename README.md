@@ -1,9 +1,9 @@
 Amy Nicholson
 ---
 
-Sure, I could try to convince you that my somewhat unconventional route into coding was, in fact, serendipitously perfect preparation for this role. But a Chemistry degree, a brief foray into the world of banking, and a stint as a property manager-cum-kitchen installer is nothing of the sort.
+I could try to convince you that my somewhat unconventional route into coding was a serendipitously perfect preparation for the role of a junior developer. However, a Chemistry degree, a brief foray into the world of banking, and a stint as a property manager-cum-kitchen installer is nothing of the sort.
 
-What I would like to draw your attention to however, is the common thread running through my career to date, which is an insatiable desire for learning, a rather masochistic fascination with remaining at the very limit of my comfort zone, and an uncanny ability to enthuse those around me, however odious the task.
+It is worth noting, however, that there are some common themes running through my career to date; namely, an insatiable desire for learning, a rather masochistic fascination with remaining at the very limit of my comfort zone, and an uncanny ability to enthuse those around me.
 
 
 ### The Juicy Bits
