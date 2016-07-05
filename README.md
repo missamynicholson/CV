@@ -1,10 +1,6 @@
 Amy Nicholson
 ---
 
-### The Atypical Opener
-Sure, I could list all the skills that you're looking for, and boldly claim that, by sheer hapchance, those exact skills were clearly demonstrable in a plethora of my previous roles. Then I could heinously over-inflate my achievements and responsibilities in said roles in the vain hope that you'd be bamboozled by the BS.
-
-But in the immortal words of Kimberly "Sweet Brown" Wilkins, [*"Ain't nobody got time for that"*](https://www.youtube.com/watch?v=zGxwbhkDjZM). So, instead, here are some juicy bits you might be interested in, minus the self-congratulatory over-exaggeration.
 
 ### The Juicy Bits
 
@@ -29,14 +25,14 @@ But in the immortal words of Kimberly "Sweet Brown" Wilkins, [*"Ain't nobody got
 
 
 >* [Chemistry graduate](#education), University of Oxford
-  - I can synthesise aspirin, should the need ever arise
+  - I can saddle myself with debt
 
 
 
 
 ### The Reviews
 
-Here are some far too generous reviews I've garnered from brilliant (and somewhat less sarcastic) people you might like to hire instead.<sup>*</sup>
+Here are some far too generous reviews I've garnered from brilliant people you might like to hire instead.<sup>*</sup>
 
 
 >*“Infectious passion”* - [Chris Coates](https://github.com/chriscoates)
@@ -87,9 +83,20 @@ Here are some far too generous reviews I've garnered from brilliant (and somewha
 
 
 ### The Work Experience<a name="work"></a>
->Deal Flow Manager, [**Owner Venture Managers**](http://www.ownerventuremanagers.co.uk/index.htm) *(August 2012 - February 2013)*
+
+>Property Manager, **Hot Property** *(February 2013 - February 2016)*
+
+    >I referenced tenants, drew up contracts, liaised with council officers over HMO (Houses of Multiple Occupation) legislation compliance, responded to emergencies, organised contractors, and even installed a few new  kitchens and bathrooms, including all the plumbing and electrics. It was the housing equivalent of  extreme problem solving and fast debugging.
 <Br>
->Wealth Management Intern, [**Barclays Wealth**](https://wealth.barclays.com/wealth-management/en_gb/home.html) *(June 2011 - Sept 2011)*
+
+
+>Deal Flow Manager, **Owner Venture Managers** *(August 2012 - February 2013)*
+
+  >I worked on the sourcing, profiling, and onboarding of companies which fitted the investment criteria. In hindsight, I was unwittingly honing my agile methodology skills as this role required early delivery and rapid response to change as the investment criteria was tweaked daily: one day I would be speaking to companies in the UK, and the next day, Japan.
+<Br>
+>Wealth Management Intern, **Barclays Wealth** *(June 2011 - Sept 2011)*
+
+  >A highly competitive paid internship. I worked on the RND (resident non-domiciled) team which managed the portfolio of RNDs with £10m+ of investable assets. The role required the fast absorption of a gargantuan amount of information, although the main challenge was negotiating the office politics which required every XP value, and then some.
 
 
 
