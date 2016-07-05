@@ -86,7 +86,7 @@ Here are some far too generous reviews I've garnered from brilliant people you m
 
 >Property Manager, **Hot Property** *(February 2013 - February 2016)*
 
-    >I referenced tenants, drew up contracts, liaised with council officers over HMO (Houses of Multiple Occupation) legislation compliance, responded to emergencies, organised contractors, and even installed a few new  kitchens and bathrooms, including all the plumbing and electrics. It was the housing equivalent of  extreme problem solving and fast debugging.
+  >I referenced tenants, drew up contracts, liaised with council officers over HMO (Houses of Multiple Occupation) legislation compliance, responded to emergencies, organised contractors, and even installed a few new  kitchens and bathrooms, including all the plumbing and electrics. It was the housing equivalent of  extreme problem solving and fast debugging.
 <Br>
 
 
@@ -94,6 +94,7 @@ Here are some far too generous reviews I've garnered from brilliant people you m
 
   >I worked on the sourcing, profiling, and onboarding of companies which fitted the investment criteria. In hindsight, I was unwittingly honing my agile methodology skills as this role required early delivery and rapid response to change as the investment criteria was tweaked daily: one day I would be speaking to companies in the UK, and the next day, Japan.
 <Br>
+
 >Wealth Management Intern, **Barclays Wealth** *(June 2011 - Sept 2011)*
 
   >A highly competitive paid internship. I worked on the RND (resident non-domiciled) team which managed the portfolio of RNDs with £10m+ of investable assets. The role required the fast absorption of a gargantuan amount of information, although the main challenge was negotiating the office politics which required every XP value, and then some.
