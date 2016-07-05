@@ -81,9 +81,9 @@ Here are some far too generous reviews I've garnered from brilliant people you m
 
 <br>
 <a name="stealthie">
->[<img src="/images/stealthie_icon.png" width="100">]()</a>
+><img src="/images/stealthie_icon.png" width="100"></a>
 
->**[Stealthie]()** is an iOS app which automatically captures your reaction to a photo using the front-facing camera. Prior to Makers Academy, I learnt Objective-C from YouTube videos, online tutorials and StackOverflow. My first app was Stealthie, which passed the Apple Review process first time and went live on the App Store. It was downloaded and used by people all over the world.
+>**Stealthie** is an iOS app which automatically captures your reaction to a photo using the front-facing camera. Prior to Makers Academy, I learnt Objective-C from YouTube videos, online tutorials and StackOverflow. My first app was Stealthie, which passed the Apple Review process first time and went live on the App Store. It was downloaded and used by people all over the world.
 
 
 ### The Work Experience<a name="work"></a>
