@@ -72,12 +72,18 @@ Here are some far too generous reviews I've garnered from brilliant people you m
 
 >[<img src="/images/phlash_icon.png" width="100">](https://github.com/missamynicholson/phlash)
 
->**[Phlash](https://github.com/missamynicholson/phlash)** is a photo messaging app built in Swift. In 12 days, our team of 4: learnt Swift from scratch; hooked up a BaaS; integrated Apple Push notifications; implemented security measures such as ACLs and Cloud Code; took the app (successfully) through Apple Beta Review; and [presented it live](https://www.youtube.com/watch?v=HKXFheulB-8) on the Makers Academy YouTube channel. *If you like phlashing people, you can join our ever-growing community of beta testers - just email phlashapp@gmail.com.*
+>**[Phlash](https://github.com/missamynicholson/phlash)** is a photo messaging app built in Swift. In 12 days, our team of 4: learnt Swift from scratch; hooked up a BaaS; integrated Apple Push notifications; implemented security measures such as ACLs and Cloud Code; took the app (successfully) through Apple Beta Review; and [presented it live](https://www.youtube.com/watch?v=HKXFheulB-8) on the Makers Academy YouTube channel. When I pitched the app to my fellow students I asked only the "brave or the stupid" to vote, as it would be tough to pull off, but every member of the team was incredible and we are all immensely proud of the end result.  *If you like phlashing people, you can join our ever-growing community of beta testers - just email phlashapp@gmail.com.*
 
 <br>
 >[<img src="/images/memeories_icon.png" width="100">](https://github.com/missamynicholson/memeories)
 
->**[Memeories](https://github.com/missamynicholson/memeories)** is a web app which allows students to create and share a meme with colleagues via their Slack channel. Memeories was built in 4.5 days using Rails, Heroku, AWS, several APIs and a Slack webhook.
+>**[Memeories](https://github.com/missamynicholson/memeories)** is a web app which allows students to create and share a meme with colleagues via their Slack channel. Memeories was built in 4.5 days using Rails, Heroku, AWS, several APIs and a Slack webhook. I pitched the idea for this project to my fellow Makers Academy students and was lucky enough to get 4 very hard working and fun team mates  who brought it to life. We deployed the Slack webhook live during our presentation and our Slack cohort have had fun using it.
+
+
+<br>
+>[<img src="/images/bnb_icon.png" width="100">](https://github.com/missamynicholson/air_bnb)
+
+>**[MakersBnb](https://github.com/missamynicholson/air_bnb)** is an AirBnb clone web app built in Ruby with a Sinatra server. Whilst the coding was important (and we were very proud of the quality of the code and of the testing), this project was focused on Agile methodology and XP values. I was appointed Chief Architect by my team mates but in reality this was an entirely team-driven project and was a fantastic example of how the whole is greater than the sum of its parts.
 
 <br>
 <a name="stealthie">
