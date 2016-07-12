@@ -108,8 +108,11 @@ Here are some far too generous reviews I've garnered from brilliant people you m
 >**Wealth Management Intern, Barclays Wealth** *(June 2011 - Sept 2011)*
 
   >A highly competitive paid internship. I worked on the RND (resident non-domiciled) team which managed the portfolio of RNDs with £10m+ of investable assets. The role required the fast absorption of a gargantuan amount of information, although the main challenge was negotiating the office politics which required every XP value, and then some.
+<Br>
 
+  >**Intern, Baoshang Bank, Beijing** *(July 2010 - Aug 2010)*
 
+    >I worked in a fast-growing microfinance bank in Beijing. I liaised and negotiated with international microfinance forums on behalf of the President and, as a token English speaker, I was given the task of identifying suitable new overseas markets for them to explore in their quest to become a global bank.
 
 ### The Education<a name="education"></a>
 >**Chemistry (MChem), University of Oxford** *(2007-2012)*
